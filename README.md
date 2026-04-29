@@ -1,4 +1,3 @@
-# Python-to-Cyber-Journey
 
 # 🚀 Python to Cyber Security Journey
 
