@@ -1,4 +1,6 @@
-![Roadmap](roadmap.png)
+<p align="center">
+  <img src="roadmap.png" width="500">
+</p>
 # 🚀 Python to Cyber Security Journey
 
 Welcome to my learning journey from **Python Developer** to **Cyber Security Engineer** 👨‍💻🛡️
