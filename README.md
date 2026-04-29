@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="roadmap.png" width="500">
+  <img src="roadmap.png" width="300">
 </p>
 # 🚀 Python to Cyber Security Journey
 
