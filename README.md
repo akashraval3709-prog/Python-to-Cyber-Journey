@@ -1,3 +1,18 @@
+# 🚀 Python to Cyber Security Journey
+
+## 📁 Folder Structure
+
+1. 📁 **01-Python-Foundation**  
+   → OOP, Decorators, SQL
+
+2. 📁 **02-Advanced-Automation**  
+   → OS Module, subprocess, Web Scraping
+
+3. 📁 **03-Web-Development**  
+   → Flask, Django, Frontend
+
+4. 📁 **04-Cyber-Security-Labs**  
+   → Networking, Encryption, Pentesting
 <p align="center">
   <img src="roadmap.png" width="300">
 </p>
