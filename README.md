@@ -3,7 +3,7 @@
 ## 📁 Folder Structure
 
 1. 📁 **01-Python-Foundation**  
-   → OOP,Encapsulation, Polymorphism, Decorators, Generators, Decorators, SQL
+   → OOP,Decorators, SQL
 
 2. 📁 **02-Advanced-Automation**  
    → OS Module, subprocess, Web Scraping
