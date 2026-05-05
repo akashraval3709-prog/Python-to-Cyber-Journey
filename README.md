@@ -28,7 +28,7 @@ This repository tracks my step-by-step progress as I learn, build, and practice 
 <p align="center">
   <img src="roadmap.png" width="300">
 </p>
----
+
 
 ## 📚 Topics Covered
 
