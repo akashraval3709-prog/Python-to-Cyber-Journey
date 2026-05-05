@@ -72,4 +72,30 @@ Improved and more robust version of the file organizer.
 * Duplicate file renaming system
 
 ---
+## 🖥️ System Monitoring Tools
+
+### 🌐 Network Health Checker
+
+Checks whether websites are online or offline using system ping commands.
+
+#### ✨ Features:
+
+* Uses subprocess to run ping command
+* Checks multiple websites
+* Displays online/offline status
+
+---
+
+### 📊 Active App Monitor
+
+Monitors whether a specific application is running on the system.
+
+#### ✨ Features:
+
+* Uses system process list (`tasklist`)
+* Detects if a target app (e.g., Notepad) is active
+* Simple real-time monitoring logic
+
+---
+
 
