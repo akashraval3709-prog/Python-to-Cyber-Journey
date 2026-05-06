@@ -77,6 +77,32 @@ Monitors whether a specific application is running on the system.
 
 ---
 
+## 📂 File Management Tools
+
+### 🔤 Auto Rename Tool (`auto_rename_tool.py`)
+
+Automatically renames files by adding incremental numbers.
+
+#### ✨ Features:
+
+* Adds numbering to files
+* Skips already numbered files
+* Helps maintain consistent file naming
+
+---
+
+### 🧹 Empty Folder Cleaner (`empty_folder_cleaner.py`)
+
+Finds and removes empty folders from a directory.
+
+#### ✨ Features:
+
+* Detects empty folders recursively
+* Asks before deleting (safe mode)
+* Provides summary of deleted and skipped folders
+
+---
+
 ## 🧠 Learning Outcomes
 
 * Working with `os` module (file & directory handling)
@@ -93,29 +119,3 @@ Monitors whether a specific application is running on the system.
 * CLI-based arguments (no manual input)
 * GUI version using Tkinter
 * Duplicate file renaming system
-
-### 📂 File Management Tools
-
-#### 🔤 Auto Rename Tool (`auto_rename_tool.py`)
-
-Automatically renames files by adding incremental numbers.
-
-**Features:**
-
-* Adds numbering to files
-* Skips already numbered files
-* Helps maintain consistent file naming
-
----
-
-#### 🧹 Empty Folder Cleaner (`empty_folder_cleaner.py`)
-
-Finds and removes empty folders from a directory.
-
-**Features:**
-
-* Detects empty folders recursively
-* Asks before deleting (safe mode)
-* Provides summary of deleted and skipped folders
-
----
