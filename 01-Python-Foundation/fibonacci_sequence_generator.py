@@ -1,14 +1,16 @@
-import subprocess
-res=subprocess.run(['ipconfig'],capture_output=True,text=True)
-flag=False
-lines=res.stdout.splitlines()
+def Fibonacci_Sequence():
+    x=0
+    y=1    
+    while True:
+        yield x
+        x,y=y,x+y
 
-for i in lines:
-    if 'IPv4 Address'in i:
-        ip=i.split(":")[-1].strip()
-        print(f"🎯 Your IP Address is: {ip}")
-        flag=True
-        break   
 
-if not flag:
-    print("Could not find the IPv4 Address.")
+fibo=Fibonacci_Sequence()
+
+cou=0
+for num in fibo:
+    if cou== 10:
+        break
+    print(num,end=' ')
+    cou+=1 
