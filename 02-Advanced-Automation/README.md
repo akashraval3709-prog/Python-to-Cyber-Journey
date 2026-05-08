@@ -119,3 +119,19 @@ Finds and removes empty folders from a directory.
 * CLI-based arguments (no manual input)
 * GUI version using Tkinter
 * Duplicate file renaming system
+
+---
+
+### 💾 Auto Backup Tool (`auto_backup_tool.py`)
+
+Automatically creates backups of files and folders into a timestamp-based backup directory.
+
+#### ✨ Features:
+
+* Creates backup folders using current date & time
+* Copies files and directories automatically
+* Displays total backed-up files and folders
+* Uses subprocess to inspect backup contents
+
+---
+
