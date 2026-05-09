@@ -25,3 +25,32 @@ Analyzes webpage content size.
 * Demonstrates practical web response handling
 
 ---
+### 🌐 Website Health Scanner (`website_health_scanner.py`)
+
+Scans websites and generates detailed health reports.
+
+#### ✨ Features:
+
+* Validates URLs automatically
+* Checks website availability and status codes
+* Measures response time
+* Extracts server and content-type information
+* Generates scan reports in a text file
+* Handles connection and timeout errors gracefully
+
+---
+### 🌐 Website Health Scanner (`website_health_scanner.py`)
+
+Scans websites and generates detailed health reports.
+
+#### ✨ Features:
+
+* Validates URLs automatically
+* Checks website availability and status codes
+* Measures response time
+* Extracts server and content-type information
+* Generates scan reports in a text file
+* Handles connection and timeout errors gracefully
+
+---
+
