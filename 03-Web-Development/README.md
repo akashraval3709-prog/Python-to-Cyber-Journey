@@ -53,4 +53,16 @@ Scans websites and generates detailed health reports.
 * Handles connection and timeout errors gracefully
 
 ---
+### 🕸️ H1 Tag Scraper (`h1_tag_scraper.py`)
+
+Extracts the first H1 tag from a webpage using BeautifulSoup.
+
+#### ✨ Features:
+
+* Fetches webpage HTML using requests
+* Parses HTML using BeautifulSoup
+* Extracts H1 tag content
+* Handles invalid URLs and connection errors gracefully
+
+---
 
