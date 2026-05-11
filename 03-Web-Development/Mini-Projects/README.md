@@ -41,3 +41,19 @@ Basic implementation of the news scraper.
 * Limited validation system
 
 ---
+## 🔗 Website Link Analyzer (`website_link_analyzer.py`)
+
+An advanced web scraping tool that analyzes website links and generates reports.
+
+### ✨ Features:
+
+* Extracts links and image sources from websites
+* Supports custom HTML tag analysis (`a` / `img`)
+* Detects internal and external links
+* Removes duplicate entries
+* Exports data into JSON format
+* Generates detailed TXT reports
+* Measures response time and validates URLs
+
+---
+
