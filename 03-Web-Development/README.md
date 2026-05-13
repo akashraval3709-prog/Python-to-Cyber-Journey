@@ -1,4 +1,3 @@
-
 ## 🌐 Website Utilities
 
 ### 🔎 Website Status Checker (`website_status_checker.py`)
@@ -25,6 +24,7 @@ Analyzes webpage content size.
 * Demonstrates practical web response handling
 
 ---
+
 ### 🌐 Website Health Scanner (`website_health_scanner.py`)
 
 Scans websites and generates detailed health reports.
@@ -39,20 +39,7 @@ Scans websites and generates detailed health reports.
 * Handles connection and timeout errors gracefully
 
 ---
-### 🌐 Website Health Scanner (`website_health_scanner.py`)
 
-Scans websites and generates detailed health reports.
-
-#### ✨ Features:
-
-* Validates URLs automatically
-* Checks website availability and status codes
-* Measures response time
-* Extracts server and content-type information
-* Generates scan reports in a text file
-* Handles connection and timeout errors gracefully
-
----
 ### 🕸️ H1 Tag Scraper (`h1_tag_scraper.py`)
 
 Extracts the first H1 tag from a webpage using BeautifulSoup.
@@ -66,4 +53,30 @@ Extracts the first H1 tag from a webpage using BeautifulSoup.
 
 ---
 
+## 🔐 GitHub Login Automation (`selenium_github_login.py`)
 
+A Selenium mini project that automates the GitHub login process and captures authentication error messages.
+
+#### ✨ Features
+
+* 🌐 Opens GitHub login page automatically
+* 👤 Enters username/email and password
+* 🖱️ Clicks the Sign In button
+* ⚠️ Captures and prints login error messages
+* 🔍 Uses Selenium locators (`NAME`, `XPATH`)
+* ⏳ Demonstrates browser automation with delays
+
+#### 🛠️ Technologies Used
+
+* 🐍 Python
+* 🌍 Selenium
+* 🚗 WebDriver Manager
+
+#### 📚 Learning Concepts
+
+* Selenium Web Automation
+* Form Handling
+* Element Locators
+* Browser Interaction
+* Error Message Extraction
+* Automation Testing Basics
