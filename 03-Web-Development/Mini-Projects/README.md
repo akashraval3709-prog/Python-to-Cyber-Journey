@@ -111,3 +111,51 @@ Generates a detailed scraping report including:
 - File report generation
 - Error handling in web scraping
 - Building structured mini-projects with Python
+
+---
+# 🌐 Website Link Analyzer
+
+A Python mini project that analyzes website links and generates detailed reports using web scraping.
+
+---
+
+## ✨ Features
+
+- 🔍 Analyze website links and images
+- 🌍 Detect internal and external links
+- 🧹 Remove duplicate and invalid links
+- 📦 Export collected data into JSON format
+- 📄 Generate detailed TXT reports
+- ⚡ Measure website response time
+- 🛡️ Handle request and connection errors
+- 🏷️ Support custom tag analysis (`a` / `img`)
+
+---
+
+## 🛠️ Technologies Used
+
+- 🐍 Python
+- 📡 Requests
+- 🍲 BeautifulSoup4
+- 📁 JSON
+- 🔗 urllib.parse
+- ⏱️ Time Module
+
+---
+
+## 📂 Output Files
+
+- 📄 `data.json` → Stores extracted link data
+- 📝 `report.txt` → Stores analysis summary report
+
+---
+
+## 📚 Learning Concepts
+
+- 🌐 Web Scraping
+- 📨 HTTP Requests
+- 🧩 HTML Parsing
+- 📂 File Handling
+- 📦 JSON Handling
+- ❌ Error Handling
+- ✅ Data Validation
