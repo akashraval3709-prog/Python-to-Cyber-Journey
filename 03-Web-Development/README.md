@@ -80,7 +80,9 @@ A Selenium mini project that automates the GitHub login process and captures aut
 * Browser Interaction
 * Error Message Extraction
 * Automation Testing Basics
+  
 ---
+
 # ☑️ Checkbox & Dropdown Automation
 
 A Selenium mini project that automates checkbox selection and dropdown handling.
@@ -107,3 +109,32 @@ A Selenium mini project that automates checkbox selection and dropdown handling.
 - Selenium Select Class
 - Conditional Automation Logic
 - Browser Interaction
+
+----
+# 🔗 Google Links Extractor
+
+A Selenium mini project that extracts and analyzes links from Google homepage.
+
+## ✨ Features
+
+- Opens Google homepage automatically
+- Extracts all anchor (`a`) tags
+- Counts total links on the page
+- Displays link text and URLs
+- Demonstrates Selenium element extraction
+- Searches elements using class names
+
+## 🛠️ Technologies Used
+
+- Python
+- Selenium
+- WebDriver Manager
+
+## 📚 Learning Concepts
+
+- Selenium Web Automation
+- Element Locators
+- TAG_NAME Locator
+- CLASS_NAME Locator
+- Extracting Attributes
+- Looping Through Web Elements  
