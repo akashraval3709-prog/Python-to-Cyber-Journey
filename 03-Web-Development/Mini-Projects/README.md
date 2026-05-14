@@ -159,3 +159,31 @@ A Python mini project that analyzes website links and generates detailed reports
 - 📦 JSON Handling
 - ❌ Error Handling
 - ✅ Data Validation
+---
+# 📚 Wikipedia Search Automation
+
+A Selenium mini project that automates Wikipedia search functionality using browser interactions.
+
+## ✨ Features
+
+- Opens Wikipedia automatically
+- Searches topics using Selenium
+- Uses `send_keys()` and `submit()`
+- Demonstrates browser back navigation
+- Clears and reuses search input field
+- Automates keyboard actions using `Keys.ENTER`
+
+## 🛠️ Technologies Used
+
+- Python
+- Selenium
+- WebDriver Manager
+
+## 📚 Learning Concepts
+
+- Selenium Web Automation
+- Input Field Handling
+- Keyboard Automation
+- Browser Navigation
+- Form Submission
+- Element Interaction
