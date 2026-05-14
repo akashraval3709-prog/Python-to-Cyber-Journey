@@ -80,3 +80,30 @@ A Selenium mini project that automates the GitHub login process and captures aut
 * Browser Interaction
 * Error Message Extraction
 * Automation Testing Basics
+---
+# ☑️ Checkbox & Dropdown Automation
+
+A Selenium mini project that automates checkbox selection and dropdown handling.
+
+## ✨ Features
+
+- Automatically selects and deselects checkboxes
+- Checks checkbox state using `is_selected()`
+- Automates dropdown selection
+- Uses `select_by_index()`
+- Uses `select_by_visible_text()`
+- Demonstrates Selenium form interaction
+
+## 🛠️ Technologies Used
+
+- Python
+- Selenium
+- WebDriver Manager
+
+## 📚 Learning Concepts
+
+- Checkbox Automation
+- Dropdown Handling
+- Selenium Select Class
+- Conditional Automation Logic
+- Browser Interaction
