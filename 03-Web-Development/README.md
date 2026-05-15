@@ -166,3 +166,32 @@ A Selenium mini project that automates Google search using keyboard actions.
 - Element Locators
 - Browser Interaction
 - Search Box Automation
+
+---
+
+# ⏳ Dynamic Loading Automation
+
+A Selenium mini project that handles dynamically loaded content using Explicit Waits.
+
+## ✨ Features
+
+- Opens dynamic loading webpage
+- Clicks Start button automatically
+- Waits for hidden content to appear
+- Extracts dynamically loaded text
+- Handles TimeoutException errors
+
+## 🛠️ Technologies Used
+
+- Python
+- Selenium
+- WebDriver Manager
+
+## 📚 Learning Concepts
+
+- Explicit Wait
+- WebDriverWait
+- Expected Conditions
+- Dynamic Element Handling
+- Selenium Automation
+- Exception Handling
