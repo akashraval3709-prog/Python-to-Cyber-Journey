@@ -138,3 +138,31 @@ A Selenium mini project that extracts and analyzes links from Google homepage.
 - CLASS_NAME Locator
 - Extracting Attributes
 - Looping Through Web Elements  
+
+---
+
+# 🔍 Google Search Automation
+
+A Selenium mini project that automates Google search using keyboard actions.
+
+## ✨ Features
+
+- Opens Google automatically
+- Searches custom keywords
+- Uses ENTER and ESCAPE keyboard keys
+- Automates browser interaction
+- Demonstrates Selenium search automation
+
+## 🛠️ Technologies Used
+
+- Python
+- Selenium
+- WebDriver Manager
+
+## 📚 Learning Concepts
+
+- Selenium Web Automation
+- Keyboard Actions
+- Element Locators
+- Browser Interaction
+- Search Box Automation
