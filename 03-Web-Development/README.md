@@ -195,3 +195,29 @@ A Selenium mini project that handles dynamically loaded content using Explicit W
 - Dynamic Element Handling
 - Selenium Automation
 - Exception Handling
+
+---
+
+☕ JavaScript Alerts Automation
+
+A Selenium mini project that automates handling different types of JavaScript alerts.
+
+✨ Features
+Handles JavaScript Alert popups
+Accepts alerts using `accept()`
+Dismisses confirmation alerts using `dismiss()`
+Sends text into JS Prompt alerts
+Uses Selenium `switch_to.alert`
+Demonstrates browser interaction automation
+
+🛠️ Technologies Used
+Python
+Selenium
+WebDriver Manager
+
+📚 Learning Concepts
+JavaScript Alert Handling
+Selenium Alert Switching
+Alert Accept & Dismiss
+Prompt Input Automation
+Browser Automation Basics
