@@ -221,3 +221,26 @@ Selenium Alert Switching
 Alert Accept & Dismiss
 Prompt Input Automation
 Browser Automation Basics
+
+---
+
+▶️ YouTube Search Automation
+
+A Selenium automation project that opens YouTube and performs a search automatically.
+
+✨ Features
+Opens YouTube automatically
+Searches for custom keywords
+Clicks the search button
+Demonstrates Selenium element locators
+Automates browser interaction
+🛠️ Technologies Used
+Python
+Selenium
+WebDriver Manager
+📚 Learning Concepts
+Browser Automation
+Selenium Locators
+Form Interaction
+Search Automation
+Button Click Handling
