@@ -197,44 +197,57 @@ A Selenium mini project that handles dynamically loaded content using Explicit W
 - Exception Handling
 
 ---
-☕ JavaScript Alerts Automation
+# ☕ JavaScript Alerts Automation
 
 A Selenium mini project that automates handling different types of JavaScript alerts.
 
-✨ Features
-Handles JavaScript Alert popups
-Accepts alerts using accept()
-Dismisses confirmation alerts using dismiss()
-Sends text into JS Prompt alerts
-Uses Selenium switch_to.alert
-Demonstrates browser interaction automation
-🛠️ Technologies Used
-Python
-Selenium
-WebDriver Manager
-📚 Learning Concepts
-JavaScript Alert Handling
-Selenium Alert Switching
-Alert Accept & Dismiss
-Prompt Input Automation
-Browser Automation Basics
-▶️ YouTube Search Automation
+## ✨ Features
+
+- Handles JavaScript Alert popups
+- Accepts alerts using `accept()`
+- Dismisses confirmation alerts using `dismiss()`
+- Sends text into JS Prompt alerts
+- Uses Selenium `switch_to.alert`
+- Demonstrates browser interaction automation
+
+## 🛠️ Technologies Used
+
+- Python
+- Selenium
+- WebDriver Manager
+
+## 📚 Learning Concepts
+
+- JavaScript Alert Handling
+- Selenium Alert Switching
+- Alert Accept & Dismiss
+- Prompt Input Automation
+- Browser Automation Basics
+
+---
+
+# ▶️ YouTube Search Automation
 
 A Selenium automation project that opens YouTube and performs a search automatically.
 
-✨ Features
-Opens YouTube automatically
-Searches for custom keywords
-Clicks the search button
-Demonstrates Selenium element locators
-Automates browser interaction
-🛠️ Technologies Used
-Python
-Selenium
-WebDriver Manager
-📚 Learning Concepts
-Browser Automation
-Selenium Locators
-Form Interaction
-Search Automation
-Button Click Handling
+## ✨ Features
+
+- Opens YouTube automatically
+- Searches for custom keywords
+- Clicks the search button
+- Demonstrates Selenium element locators
+- Automates browser interaction
+
+## 🛠️ Technologies Used
+
+- Python
+- Selenium
+- WebDriver Manager
+
+## 📚 Learning Concepts
+
+- Browser Automation
+- Selenium Locators
+- Form Interaction
+- Search Automation
+- Button Click Handling
