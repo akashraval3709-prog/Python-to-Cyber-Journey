@@ -187,3 +187,34 @@ A Selenium mini project that automates Wikipedia search functionality using brow
 - Browser Navigation
 - Form Submission
 - Element Interaction
+
+---
+
+# 📚 Wikipedia Auto Search Bot
+
+A Selenium automation project that performs multiple Wikipedia searches automatically and navigates between pages.
+
+## ✨ Features
+
+- Opens Wikipedia automatically
+- Performs multiple searches
+- Uses ENTER and submit actions
+- Navigates back between searches
+- Clears search input dynamically
+- Prints page titles and URLs
+- Demonstrates Selenium browser automation
+
+## 🛠️ Technologies Used
+
+- Python
+- Selenium
+- WebDriver Manager
+
+## 📚 Learning Concepts
+
+- Browser Automation
+- Search Automation
+- Keyboard Actions
+- Page Navigation
+- Selenium Locators
+- Dynamic Element Handling
