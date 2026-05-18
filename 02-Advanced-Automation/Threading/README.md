@@ -50,3 +50,32 @@ A Python threading mini project that runs multiple countdown timers simultaneous
 - Concurrent Execution
 - Thread Synchronization
 - Countdown Logic
+
+---
+
+# 📥 Multi File Downloader Simulation
+
+A Python multithreading mini project that simulates downloading multiple files simultaneously using threads.
+
+## ✨ Features
+
+- Simulates multiple file downloads at the same time
+- Uses Python threading for concurrent execution
+- Displays download progress percentage
+- Uses custom thread names
+- Waits for all downloads to complete using `join()`
+
+## 🛠️ Technologies Used
+
+- Python
+- threading module
+- time module
+
+## 📚 Learning Concepts
+
+- Multithreading
+- Thread Management
+- Concurrent Task Execution
+- Thread Naming
+- Progress Simulation
+- Thread Synchronization
