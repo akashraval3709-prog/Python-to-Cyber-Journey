@@ -79,3 +79,70 @@ A Python multithreading mini project that simulates downloading multiple files s
 - Thread Naming
 - Progress Simulation
 - Thread Synchronization
+
+---
+
+# 🌐 Multi Website Checker
+
+A Python multithreading mini project that checks the status of multiple websites simultaneously and generates reports.
+
+## ✨ Features
+
+- Checks multiple websites concurrently
+- Detects UP, DOWN, and FAILED websites
+- Measures website response time
+- Uses Python multithreading
+- Prevents duplicate entries
+- Generates JSON and TXT reports
+- Handles timeout and request errors gracefully
+
+## 🛠️ Technologies Used
+
+- Python
+- threading module
+- requests
+- json module
+- time module
+
+## 📚 Learning Concepts
+
+- Multithreading
+- Concurrent Execution
+- HTTP Requests
+- Exception Handling
+- JSON File Handling
+- Report Generation
+- Thread Synchronization
+
+---
+
+# 🌐 Multi Website Connectivity Checker
+
+A Python automation project that checks multiple websites simultaneously using Selenium and multithreading.
+
+## ✨ Features
+
+- Checks multiple websites concurrently
+- Uses Selenium headless browser automation
+- Displays website titles automatically
+- Measures total execution time
+- Demonstrates multithreading with Selenium
+- Handles browser and connection errors gracefully
+
+## 🛠️ Technologies Used
+
+- Python
+- Selenium
+- WebDriver Manager
+- threading module
+- time module
+
+## 📚 Learning Concepts
+
+- Multithreading
+- Selenium Automation
+- Headless Browser Testing
+- Concurrent Execution
+- Browser Interaction
+- Performance Measurement
+- Exception Handling
