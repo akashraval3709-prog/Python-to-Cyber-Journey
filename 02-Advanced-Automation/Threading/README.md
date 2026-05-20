@@ -146,3 +146,34 @@ A Python automation project that checks multiple websites simultaneously using S
 - Browser Interaction
 - Performance Measurement
 - Exception Handling
+
+---
+
+# 🔒 Shared List Append
+
+A Python multithreading mini project that safely appends data into a shared list using thread synchronization.
+
+## ✨ Features
+
+- Uses multiple threads simultaneously
+- Demonstrates shared resource handling
+- Prevents race conditions using Lock
+- Safely updates shared list data
+- Displays thread lock acquisition and release
+- Demonstrates critical section handling
+
+## 🛠️ Technologies Used
+
+- Python
+- threading module
+- time module
+
+## 📚 Learning Concepts
+
+- Multithreading
+- Thread Synchronization
+- Shared Resources
+- Race Condition Prevention
+- Lock Mechanism
+- Critical Section
+- Concurrent Execution
