@@ -218,3 +218,37 @@ A Selenium automation project that performs multiple Wikipedia searches automati
 - Page Navigation
 - Selenium Locators
 - Dynamic Element Handling
+
+---
+
+# 🌐 Wikipedia Auto Search Bot v2
+
+A Selenium automation project that performs multiple Wikipedia searches automatically and extracts useful page information.
+
+## ✨ Features
+
+- Opens Wikipedia automatically
+- Performs multiple searches using loops
+- Searches topics like Cyber Security, Python, and Selenium
+- Extracts page titles and URLs
+- Counts total links from search result pages
+- Displays top links with text and URLs
+- Automates browser navigation using `back()`
+- Demonstrates Selenium element interaction
+
+## 🛠️ Technologies Used
+
+- Python
+- Selenium
+- WebDriver Manager
+
+## 📚 Learning Concepts
+
+- Selenium Web Automation
+- Browser Navigation
+- Loop Automation
+- Element Locators
+- Extracting Attributes
+- Dynamic Search Automation
+- Handling Multiple Searches
+- Link Extraction
