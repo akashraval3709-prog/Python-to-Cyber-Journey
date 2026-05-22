@@ -252,3 +252,42 @@ A Selenium automation project that performs multiple Wikipedia searches automati
 - Dynamic Search Automation
 - Handling Multiple Searches
 - Link Extraction
+
+---
+
+# 🤖 Selenium Form Automation Bot
+
+A Selenium automation project that fills and submits an online practice form automatically using dynamic user input.
+
+## ✨ Features
+
+- Opens automation practice form automatically
+- Takes dynamic user input from terminal
+- Fills form fields automatically
+- Selects gender and hobbies
+- Handles dropdown selection using keyboard actions
+- Uses Explicit Waits for stable automation
+- Scrolls page automatically before submission
+- Uses JavaScript click for hidden elements
+- Captures successful form submission popup
+- Closes popup automatically
+- Demonstrates advanced Selenium automation
+
+## 🛠️ Technologies Used
+
+- Python
+- Selenium
+- WebDriver Manager
+
+## 📚 Learning Concepts
+
+- Selenium Web Automation
+- Explicit Waits
+- Form Automation
+- Keyboard Actions
+- Element Locators
+- JavaScript Execution
+- Popup Handling
+- Browser Interaction
+- Dynamic User Input
+- Automation Testing Basics
