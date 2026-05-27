@@ -5,8 +5,7 @@ A modern HTML & CSS project that recreates a stylish GitHub-inspired developer p
 ## 🚀 Live Demo
 
 You can view the live project here:  
-👉 https://akashraval3709-prog.github.io/Python-to-Cyber-Journey/
-
+👉 [Live Project Link]( https://akashraval3709-prog.github.io/Python-to-Cyber-Journey/)
 ---
 
 ## ✨ Features
