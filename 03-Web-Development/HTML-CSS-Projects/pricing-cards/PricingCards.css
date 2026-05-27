@@ -1,0 +1,94 @@
+body {
+    padding: 0;
+    margin: 0;
+    /* background-color: #302f2f; */
+    background: linear-gradient(to left, #283048, #859398);
+
+}
+
+.cards {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 60px;
+    flex-wrap: wrap;
+}
+
+.card {
+    background-color: #ddd;
+    padding: 20px;
+    margin-top: 100px;
+    width: 350px;
+    min-height: 340px;
+    border-radius: 9px;
+    text-align: center;
+
+    transition: transform 0.3s ease,
+        background-color 0.3s ease;
+    
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.card:hover {
+    transform: scale(1.05);
+    background-color: #f5f7f8;
+}
+
+
+
+.pro-card:hover .card-title {
+    color: rgb(12, 15, 203);
+
+}
+
+.pro-card:hover {
+    background-color: #97d5ec;
+    transform: scale(1.12);
+    transition: 0.1s;
+}
+
+
+
+.card-title {
+    font-family: "Google Sans", sans-serif;
+    color: #015d72;
+    font-size: 55px;
+    letter-spacing: 1px;
+}
+
+.card-price {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(2, 35, 62);
+    letter-spacing: 0.4px;
+    font-size: 30px;
+}
+
+.features {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 23px;
+    letter-spacing: 0.4px;
+}
+
+.btn {
+    background-color: #283048;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+    border: none;
+    padding: 12px 24px;
+    margin-top: 25px;
+    border-radius: 11px;
+    font-size: 15px;
+    cursor: pointer;
+    transition: 0.3s ease;
+
+}
+
+.btn:hover {
+    background-color: rgb(59, 134, 134);
+    color: rgb(4, 14, 14);
+}
+
+.procard-btn:hover {
+    background-color: rgb(11, 6, 165);
+    color: #f1f1f1;
+}
