@@ -4,8 +4,9 @@ A modern YouTube-inspired coding learning dashboard built using HTML5 and CSS3. 
 
 ## 🚀 Live Demo
 
-You can view the live project here:
-👉 https://akashraval3709-prog.github.io/Python-to-Cyber-Journey/
+You can view the live project here:  
+👉 [Live Project Link](https://akashraval3709-prog.github.io/Python-to-Cyber-Journey/03-Web-Development/HTML-CSS-Projects/Coding-Learning-Hub/)
+
 
 ---
 
