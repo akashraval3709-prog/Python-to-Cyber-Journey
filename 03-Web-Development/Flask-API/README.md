@@ -98,4 +98,4 @@ Return a list of technologies as a structured JSON response using Flask's `jsoni
 ## 👨‍💻 Author
 
 **Akash Raval**  
-Python Developer Aspirant | Learning Flask, Web Development & Cyber Security
+Python Developer Aspirant | Learning Flask, Web Development 
