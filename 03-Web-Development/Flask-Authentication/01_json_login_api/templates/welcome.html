@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>welcome</title>
+    <link rel="stylesheet" href="{{url_for('static',filename='css/style.css')}}">
+</head>
+
+<body>
+    <div id="heading">
+        <h2>welcome <span class="name"> </span></h2>
+
+    </div>
+
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            loadUserProfile();
+        });
+
+        async function loadUserProfile() {
+
+            const response = await fetch('/api/user/profile', {
+                method: 'GET',
+                headers: {
+
+                    'Content-Type': 'application/json'
+                },
+
+
+            })
+
+            data = await response.json()
+
+            if (data.status == 'success') {
+
+                const user_data = document.querySelector('.name')
+                user_data.textContent = data.userName
+
+
+            }
+            else{
+                window.location.href ='/'
+            }
+
+        }
+
+    </script>
+</body>
+
+</html>
