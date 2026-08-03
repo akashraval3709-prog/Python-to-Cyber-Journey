@@ -1,0 +1,170 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'DM Sans', sans-serif;
+}
+
+:root{
+    --background-color: #f0f4f8;
+    --formcard-color: #ffffff; 
+    --border-color: #cbd5e1;
+}
+
+body{
+    background-color: var(--background-color);
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    padding: 20px;
+}
+
+.form-container{
+    background-color: var(--formcard-color);
+    padding: 40px 30px; 
+    width: 100%;
+    max-width: 400px; 
+    border-radius: 10px;
+    border: 1px solid var(--border-color);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05); 
+}
+
+.header{
+   margin-bottom: 25px;
+   text-align: center; 
+}
+
+.header h1 {
+   font-weight: 600;
+   color: #011e48;
+   letter-spacing: 0.8px;
+   font-size: 24px;
+}
+
+.lForm{
+    display: flex;
+    flex-direction: column;
+    gap: 20px; 
+}
+
+.input-group{
+    display: flex;
+    flex-direction: column; 
+    gap: 6px; 
+}
+
+.input-group label{
+    font-size: 14px;
+    color: #011e48;
+    font-weight: 500;
+    padding-left: 2px;
+}
+
+.input-field{
+    height: 38px; 
+    border-radius: 6px;
+    width: 100%;
+    border: 1px solid var(--border-color);
+    padding-inline: 12px;
+    outline: none;
+    font-size: 14px;
+    transition: border-color 0.2s;
+}
+
+.input-field:focus,
+.toggle-btn:focus{
+    border-color: #0000ff;
+    background-color: #ffffff;
+}
+
+.input-btn{
+    width: 100%;
+    padding: 12px;
+    border: none;
+    background-color: #0000ff;
+    color: #ffffff;
+    font-size: 15px;
+    font-weight: bold;
+    border-radius: 6px;
+    cursor: pointer;
+    margin-top: 10px;
+    transition: background-color 0.2s;
+}
+
+.input-btn:hover {
+    background-color: #0000cc;
+}
+
+.flash-msg {
+    margin-bottom: 15px;
+    text-align: center;
+    border-radius: 6px;
+    padding: 10px;
+    font-size: 14px;
+}
+
+.error {
+    background-color: #fee2e2;
+    color: #ef4444;
+    border: 1px solid #fca5a5;
+}
+
+.success {
+    background-color: #dcfce7;
+    color: #16a34a;
+    border: 1px solid #86efac;
+}
+
+.errMsg,.errMsgPass{
+    color: #ef4444;
+    font-size: 13px;
+    font-weight: 500;
+
+}
+
+.demo{
+    color: #003886;
+    background-color: #def7fa;
+    margin-top: 10px;
+    font-size: 12px;
+    border-radius: 5px;
+}
+#heading{
+display: flex;
+justify-content: center;
+align-items: center;
+    height: 100vh;
+}
+
+.password-wrapper{
+    position: relative;
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+.toggle-btn{
+    position: absolute;
+    right: 10px;
+    border: none;
+    padding: 5px;
+    background:none ;
+    color: #001839;
+    font-weight: 600;
+    font-size: 13px;
+
+
+
+}
+#heading h2{
+    color: #0000f0;
+}
+
+#heading .name{
+    color: #011e48;
+}
